@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "ecgauvin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/230594712?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "ecgauvin",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-04-22T06:21:20.935Z",
-    "updated_at": "2026-04-22T06:21:20.935Z"
-  }
+    "updated_at": "2026-04-22T06:21:20.935Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "9030d029-6192-44fb-a55f-4a422158842a": {
+      "content": [],
+      "created_at": "2026-04-22T06:21:20.960Z",
+      "created_by": "ecgauvin",
+      "title": "Practice",
+      "updated_at": "2026-04-22T06:21:20.960Z",
+      "updated_by": "ecgauvin",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "9030d029-6192-44fb-a55f-4a422158842a"
+  ]
 }
